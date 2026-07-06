@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Alan J. Figueroa Ruiz
+# Alan J. Figueroa Ruiz, BAgSc
 
 **Conservation Physiology | Wildlife Medicine and Disease Ecology | Reproductive Biology | One Health**
 
