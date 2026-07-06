@@ -73,7 +73,7 @@ I believe conservation science is strongest when it connects rigorous research w
 ## 📫 Connect with me
 
 - GitHub: [@ajfigueroaruiz](https://github.com/ajfigueroaruiz)
-- Website: Coming soon
+- Website: [https://ajfigueroaruiz.github.io/](https://ajfigueroaruiz.github.io/)
 - LinkeIn: [Alan J. Figueroa Ruiz](www.linkedin.com/in/alfiru)
 - Protocols.io: [Alan J Figueroa Ruiz](https://www.protocols.io/researchers/alfiru)
 - Science communication: [WildCiencia @ Facebook](https://www.facebook.com/figwildciencia)
